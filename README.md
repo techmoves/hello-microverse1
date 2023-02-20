@@ -20,7 +20,6 @@
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -111,8 +110,8 @@ Install this project with these cmd:
 > Mention all of the collaborators of this project.
 > 👤 **Phelelani Ndlovu**
 
-- GitHub: @techmoves
-- Twitter: @Dopezonke_
+- GitHub: https://github.com/techmoves
+- Twitter:  https://twitter.com/Dopezonke_
 - LinkedIn: https://www.linkedin.com/in/phelelani-ndlovu-883916160/
 
 
@@ -154,11 +153,11 @@ Give a ⭐️ if you like this project!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
-https://github.com/techmoves/hello-microverse
+
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/techmoves/hello-microverse/blob/feature/integration/MIT.md) licensed.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
->>>>>>> main
+
